@@ -1,0 +1,4 @@
+对利用率情况进行排序（管理员功能）
+对预定量进行排序（用户功能）在用户的search 功能中的 sort 模式中
+取消订单的函数在 change_file_Rent_content.c 里面，还没有做
+//menu.c 中有一个 site_menagement_menu 那一个 case 框中的 说是要我进行修改,添加一个场地
